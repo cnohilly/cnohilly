@@ -1,4 +1,4 @@
-## cnohilly
+## Chris Nohilly
 ### About
 Full-stack web developer with a B.S. in Computer Science for a solid basis of fundamentals and programming knowledge. High interest in back-end development but prepared for all aspects of full-stack development after earning a certificate in Full Stack Web Development from Rutgers University’s Coding Boot Camp. Works well with teams with importance on sharing knowledge to learn from or teach fellow developers.
 
