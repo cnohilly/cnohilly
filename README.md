@@ -1,4 +1,13 @@
-### Hi there 👋
+## cnohilly
+### About
+Full-stack web developer with a B.S. in Computer Science for a solid basis of fundamentals and programming knowledge. High interest in back-end development but prepared for all aspects of full-stack development after earning a certificate in Full Stack Web Development from Rutgers University’s Coding Boot Camp. Works well with teams with importance on sharing knowledge to learn from or teach fellow developers.
+
+### 📫 How to reach me 
+
+- [Email](ctnohilly@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/chris-nohilly/)
+- [Portfolio](https://cnohilly.github.io/enigma-react-portfolio/)
+- [Resume](https://docs.google.com/document/d/1ZHjctom-YPwpJObrkv8BhTf00iuYGTX3cHmBIAZEjA8/)
 
 <!--
 **cnohilly/cnohilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
