@@ -6,7 +6,7 @@ Full-stack web developer with a B.S. in Computer Science for a solid basis of fu
 
 - [Email](mailto:ctnohilly@gmail.com) - ctnohilly@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/chris-nohilly/)
-- [Portfolio](https://cnohilly.github.io/enigma-react-portfolio/)
+- [Portfolio](https://cnohilly.com/)
 - [Resume](https://docs.google.com/document/d/1ZHjctom-YPwpJObrkv8BhTf00iuYGTX3cHmBIAZEjA8/)
 
 <!--
